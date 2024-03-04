@@ -16,16 +16,7 @@
  * For a copy, see <https://opensource.org/licenses/MIT>.
  */
 
-
-
-#include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "driver/gpio.h"
-#include "esp_log.h"
-#include "sdkconfig.h"
-#include "rom/ets_sys.h"
-#include <esp_timer.h>
+#include "project_includes.h"
 
 // Define GPIO pin numbers for signals and buttons
 #define DATA 15 // Signal A
