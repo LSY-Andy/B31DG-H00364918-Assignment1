@@ -4,6 +4,8 @@ build/
 
 .devcontainer/
 
+sdkconfig
+
 *.code-workspace
 
 CMakeFiles/
@@ -27,8 +29,6 @@ Makefile
 
 .DS_Store
 Thumbs.db
-
-sdkconfig
 
 *.tmp
 *.temp
