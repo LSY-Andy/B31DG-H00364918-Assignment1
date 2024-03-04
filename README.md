@@ -1,7 +1,7 @@
 | Supported Targets | ESP32 |
 | ----------------- | ----- |
 
-# _Assignment project_
+# _B31DG_Assignment1_
 
 About the project: This is a project based on Assignment 1 of B31DG, it aims to  generate a sequence of signals based on the input from two buttons. 
 
