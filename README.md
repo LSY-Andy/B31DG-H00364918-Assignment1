@@ -45,5 +45,5 @@ Below is short explanation of remaining files in the project folder.
 - **demonstration_video.mp4** is the demo video of actually running the program on the ESP32 board and showing it through an oscilloscope
 - **Coursework_Arduino.ino** is the code for Arduino IDE
 - **main.c** is the code for ESP-IDF extension
-- **tools** contains a test program to test whether the ESP32 board is working properly and whether the buttons are working properly
+- **tools** contains test programs to test whether the ESP32 board is working properly and whether the buttons are working properly
 
