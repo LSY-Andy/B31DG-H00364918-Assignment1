@@ -1,5 +1,5 @@
-| Supported Targets | ESP32 |
-| ----------------- | ----- |
+| Supported Targets | ESP32 NodeMCU Module |
+| ----------------- | -------------------- |
 
 # _B31DG_Assignment1_
 
