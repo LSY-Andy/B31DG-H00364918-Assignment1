@@ -7,8 +7,8 @@
  * The timing of signals can be adjusted for production or debugging
  *
  * @author Shiyu Lu
- * @date 04-03-2024
- * @version 2.0.0
+ * @date 05-03-2024
+ * @version 3.0.0
  *
  * Copyright (c) 2024 Shiyu Lu. All rights reserved.
  *
